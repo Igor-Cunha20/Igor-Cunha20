@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-vinicius-cunha-80aab4156/)](https://www.linkedin.com/in/igor-vinicius-cunha-80aab4156/)
 
 - ❤️ Sou apaixonado por programação
+- 👨🏽‍🎓 Formado em Analise e Desenvolvimento de Sistemas
 
 
