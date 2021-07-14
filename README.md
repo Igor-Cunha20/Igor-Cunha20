@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# Igor Vinicius da Cunha
-
 ## About me
 
+-->
+# Igor Vinicius da Cunha
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://igor-cunha20.github.io/Site/)](https://igor-cunha20.github.io/Site/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-vinicius-cunha-80aab4156/)](https://www.linkedin.com/in/igor-vinicius-cunha-80aab4156/)
+
+
