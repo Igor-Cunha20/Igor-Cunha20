@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://igor-cunha20.github.io/Site/)](https://igor-cunha20.github.io/Site/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-vinicius-cunha-80aab4156/)](https://www.linkedin.com/in/igor-vinicius-cunha-80aab4156/)
 
-- 😄 Eu gosto muito de aprender programação
+- ❤️ Sou apaixonado por programação
 
 
